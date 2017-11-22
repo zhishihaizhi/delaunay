@@ -1,4 +1,4 @@
-#include "Triangular.h"
+#include "Triangulation.h"
 #include <algorithm>
 TriDiagram::TriDiagram(void)
 {
